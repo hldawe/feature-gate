@@ -1,0 +1,1 @@
+from core.pipeline import run_screening_pipeline
